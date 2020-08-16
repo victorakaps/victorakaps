@@ -22,11 +22,10 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 
 <br />
 <br />
-
 <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorakaps&show_icons=true&hide_border=true&count_private=true" /> 
+
 <br />
-<br />
----
+
 [website]: https://victorakaps.herokuapp.com/
 [twitter]: https://twitter.com/victorakaps
 [instagram]: https://instagram.com/_parth.sethi_
