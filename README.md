@@ -18,7 +18,7 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 ### Languages and Tools:
 
 
-<img align="left" src="https://i.imgur.com/ZQkILcx.png" width="1000px"/>
+<img align="left" src="https://i.imgur.com/ZQkILcx.png" width="750px"/>
 
 <br />
 <br />
