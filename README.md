@@ -1,4 +1,4 @@
-## Hey there, I'm [Dhruv Saxena][website] 👋
+## Hey there, I'm [Parth Sethi][website] 👋
 #### A Fulltime JS Front-end Developer on the way to become fullstack.
 ---
 - 🔭 I’m currently hustling with my startup [Developers Education](http://devedu.tech) and [un-named](https://github.com/dhruvsaxena1998/un-nammed) project.
@@ -40,7 +40,7 @@
 
 ---
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhruvsaxena1998&show_icons=true&hide_border=true&count_private=true" /> 
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorakaps&show_icons=true&hide_border=true&count_private=true" /> 
 
 <br />
 <br />
