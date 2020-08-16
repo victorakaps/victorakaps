@@ -46,7 +46,7 @@
 <br />
 
 [website]: https://www.saxenadhruv.me
-[twitter]: https://twitter.com/pawwwwtato
-[instagram]: https://instagram.com/dhruvsaxena1998
-[linkedin]: https://linkedin.com/in/dhruvsaxena1998
-[facebook]: https://facebook.com/dhruvsaxena1998
+[twitter]: https://twitter.com/victorakaps
+[instagram]: https://instagram.com/_parth.sethi_
+[linkedin]: https://linkedin.com/in/victorakaps
+[facebook]: https://facebook.com/victorakaps
