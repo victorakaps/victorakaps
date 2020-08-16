@@ -1,10 +1,9 @@
 ## Hey there, I'm [Parth Sethi][website] 👋
-#### A Fulltime JS Front-end Developer on the way to become fullstack.
+#### MERN stack, App Develpoment, Bots & Automation, CLI tools/scripts etc.
 ---
-- 🔭 I’m currently hustling with my startup [Developers Education](http://devedu.tech) and [un-named](https://github.com/dhruvsaxena1998/un-nammed) project.
-- 🌱 Trying to improve my skills everyday
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to read about Cosmos and latest technologies.
+Newbie trying everything, i like making telegram bots, mobile apps, web scarpping, making/working with API(s) and automating stuff..
+
+While I keep busy grasping courses, I still make time to develop new applications sometime creation's of my mind but most of the time inspired from other's work. Love Open Source Community for that ❤️.
 
 ### Connect with me:
 
