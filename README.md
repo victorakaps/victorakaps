@@ -15,7 +15,7 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 [<img align="left" alt="victorakaps | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools:
+### Fields i have my hands in:
 
 
 <img align="left" src="https://i.imgur.com/8qeJyi8.png" width="750px"/>
