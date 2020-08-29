@@ -22,6 +22,9 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 
 <br />
 <br />
+<a href="https://github.com/victorakaps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorakaps&theme=light&hide_langs_below=1" />
+</a>
 <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victorakaps&show_icons=true&hide_border=true&count_private=true" /> 
 
 <br />
