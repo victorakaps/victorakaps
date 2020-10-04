@@ -1,4 +1,4 @@
-# Hey there, I'm [Parth Sethi][website] 👋
+# Hey there, I'm [Parth][website] 👋
 ## MERN stack, App Develpoment, Bots & Automation, CLI tools/scripts etc.
 ---
 Newbie trying everything, i like making telegram bots, mobile apps, web scarpping, making/working with API(s) and automating stuff..
