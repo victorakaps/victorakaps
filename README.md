@@ -18,7 +18,7 @@ While I keep busy grasping and learning new tech, I still make time to develop n
 ### Fields i have my hands in:
 
 
-<img align="left" src="https://i.imgur.com/8qeJyi8.png" width="500px"/>
+<img align="left" src="https://i.imgur.com/gobnGvu.png" width="500px"/>
 
 <br />
 <br />
