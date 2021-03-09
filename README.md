@@ -1,7 +1,7 @@
 # Hey there, I'm [Parth][website] 👋
-## MERN stack, App Develpoment, Bots & Automation, CLI tools/scripts etc.
+## Full Stack stack, App Develpoment, Bots & Automation, CLI tools/scripts etc.
 ---
-i like making telegram bots, web apps, web scarpping, making/working with API(s), working with ML and automating stuff..
+i like making bots{telegram, discord, twitch etc.}, web apps, web scarpping, making/working with API(s), working with ML and automating stuff..
 
 While I keep busy grasping and learning new tech, I still make time to develop new applications sometime creation's of my mind but most of the time inspired from other's work. Love Open Source Community for that ❤️.
 
