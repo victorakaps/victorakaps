@@ -6,11 +6,13 @@
 </h2>
 
 <p align="center">
-<a href="https://t.me/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="victorakaps" height="30" width="50" /></a>
-<a href="https://twitter.com/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorakaps" height="30" width="50" /></a>
-<a href="https://linkedin.com/in/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorakaps" height="30" width="50" /></a>
-<a href="https://fb.com/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victorakaps" height="30" width="50" /></a>
-<a href="https://instagram.com/__parth.sethi__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__parth.sethi__" height="30" width="50" /></a>
+[<img align="left" alt="victorakaps" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="victorakaps | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" onclick="window.open('anotherpage.html', '_blank');" alt="victorakaps" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="victorakaps" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="_parth.sethi_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="victorakaps | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 </p>
 
 <h2 align="left">Skills:</h2>
@@ -94,7 +96,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a>  
-<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886650cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a> 
+<a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a> 
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
@@ -110,3 +112,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorakaps&show_icons=true&locale=en&theme=radical" alt="victorakaps" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorakaps&theme=radical" alt="victorakaps" /></p>
+
+[website]: https://parthsethi.in/
+[twitter]: https://twitter.com/victorakaps
+[instagram]: https://instagram.com/_parth.sethi_
+[linkedin]: https://linkedin.com/in/victorakaps
+[facebook]: https://facebook.com/victorakaps
+[telegram]: https://t.me/victorakaps
