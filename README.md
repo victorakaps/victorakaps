@@ -2,13 +2,14 @@
 <h3 align="center">I do Full Stack stack, Mobile App Dev, ChatBots Automation & DevOps</h3>
 </p>
 
-<h2 align="center">https://parthsethi.in
+<h2 align="center">
+  <a href="https://parthsethi.in" target="_blank">https://parthsethi.in</a>
 </h2>
 <p align="center">
 <img align="center" src="https://imgur.com/RtBr1k4.gif"/>
   </p>
 <p align="center">
-<a href="https://t.me/victorakaps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="victorakaps" height="30" width="50" /></a>
+<a href="https://t.me/victorakaps" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="victorakaps" height="30" width="50" /></a>
 <a href="https://twitter.com/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorakaps" height="30" width="50" /></a>
 <a href="https://linkedin.com/in/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorakaps" height="30" width="50" /></a>
 <a href="https://fb.com/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="victorakaps" height="30" width="50" /></a>
