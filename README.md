@@ -4,7 +4,9 @@
 
 <h2 align="center">https://parthsethi.in
 </h2>
+<p align="center">
 <img align="center" src="https://imgur.com/RtBr1k4.gif"/>
+  </p>
 <p align="center">
 <a href="https://t.me/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="victorakaps" height="30" width="50" /></a>
 <a href="https://twitter.com/victorakaps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorakaps" height="30" width="50" /></a>
