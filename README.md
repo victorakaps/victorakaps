@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://parthsethi.me" target="_blank">https://parthsethi.in</a>
+  <a href="https://parthsethi.me" target="_blank">https://parthsethi.me</a>
 </h2>
 <p align="center">
 <img align="center" src="https://imgur.com/RtBr1k4.gif"/>
