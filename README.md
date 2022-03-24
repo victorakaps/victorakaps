@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">I do Full Stack stack, ChatBots, Automation & DevOps</h3>
+<h3 align="center">I do Full Stack stack, ChatBots, Automation</h3>
 </p>
 
 <h2 align="center">
